@@ -17,7 +17,7 @@ Balance by Job Classification Ratio is White Collar:Blue Collar:Other = 48.91:25
 At the age of 34 females holds 4.3 million where as at the same time male holds 3.6 million sum of balances.
 England holds the most of the balances followed by Scotland, Wales and Northern Ireland. This same ratio seen for the Customers by Region as well.
 
-Watch this video on YouTube:
+YouTube:
 https://youtu.be/LdyczSHOLSA
 
 LinkedIn:
