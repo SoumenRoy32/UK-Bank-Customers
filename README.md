@@ -20,4 +20,8 @@ England holds the most of the balances followed by Scotland, Wales and Northern 
 Watch this video on YouTube:
 https://youtu.be/LdyczSHOLSA
 
-Kaggle:https://www.kaggle.com/datasets/ukveteran/uk-bank-customers
+LinkedIn:
+https://www.linkedin.com/in/soumen-roy-datascience
+
+Kaggle:
+https://www.kaggle.com/datasets/ukveteran/uk-bank-customers
